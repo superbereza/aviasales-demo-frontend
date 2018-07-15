@@ -1,0 +1,19 @@
+{
+  "name": "aviasales-demo-frontend",
+  "version": "1.0.0",
+  "description": "My homework project at E. Rodionov react course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superbereza/aviasales-demo-frontend.git"
+  },
+  "author": "Danila Berezin (danila.v.berezin@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superbereza/aviasales-demo-frontend/issues"
+  },
+  "homepage": "https://github.com/superbereza/aviasales-demo-frontend#readme"
+}
